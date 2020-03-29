@@ -17,3 +17,6 @@ After reviewing the weekly "5 Links Worth Your Time" by Quincy Larson of freecod
 Contrary to what's happening in the Web Development Bootcamp, the frontend and backend are completely separated, so we could use a completely new frontend and send requests to the backend api without having to touch the backend at all.
 
 # Some pictures
+
+![Main View](imgs/main-img.png)
+![Edit View](imgs/edit-img.png)
