@@ -3,7 +3,7 @@ Todo Webapp using a PERN stack: Postgresql, Express, React, NodeJS
 
 # Why did I do this?
 
-After reviewing the weekly "5 Links Worth Your Time" by Quincy Larson of freecodecamp.org, and being quarantined on a sunny Saturday morning, I wanted to see how to link Postgresql, a database technology I'm familiar with, to a NodeJS backend, and get some more practice with React. My previous experiences working with Postgresql were only with a Java backend and, while going through the Web Developer Bootcamp by Colt Steele and getting exposed to NodeJS with MongoDB and EJS, I thought it'd be interesting to find out how to strap a NodeJS app with a relational database rather than a non-relational one. 
+Learn how to use Postgres with NodeJS backend. Was quarantined. Link to tutorial: https://www.freecodecamp.org/news/learn-the-pern-stack-full-course/
 
 # What did I learn? 
 
